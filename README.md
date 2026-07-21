@@ -15,6 +15,6 @@ and the SwiftUI Views
 A Coordinator using NavigationStack + NavigationPath 
 List view never knows detail view exists, it just fires a closure
 
-FUTURE EXTENSIOS:
+FUTURE EXTENSIONS:
 
 I will add pagination (infinite scroll) or a CachedProductRepository decorator to show Open/Closed in action live.
